@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    letter-spacing: .5em;
+    text-transform: uppercase;
+    background:linear-gradient(to right, red, yellow) ;
+    top: 15%;
+}
+h1{
+    width: 100%;
+    font:600 3.5em 'Raleway',sans-serif;
+}
+h3{
+    font: 900 1em 'Raleway',sans-serif;
+    letter-spacing: .01em;
+    text-transform: none;
+}
